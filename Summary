@@ -1,1 +1,4 @@
 This project aims to streamline the deployment and management of Elastic Beanstalk.
+Amazon Elastic Beanstalk is a platform as a service (PaaS) that allows users to deploy and scale web applications on AWS. 
+It handles the deployment details, including:
+capacity provisioning, load balancing, auto scaling, application health monitoring, patching, and security updates
